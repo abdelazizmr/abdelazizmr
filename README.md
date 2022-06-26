@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @abdelazizmr
-- 👀 I’m interested in programing
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in programing and computer science
+- 💻 I'm on my way to be a fullstack developer
+- 💞️ Feel comfortable to check my humble projects
 
 <!---
 abdelazizmr/abdelazizmr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

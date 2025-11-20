@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently a developer<br>🤝 I'm looking for contributing in web projects<br>🌱💬 Ask me about Java, Angular, PHP and python <br>
+🔭 I’m currently a confirmed developer<br>💬 Ask me about Java, Angular, PHP and python <br>
 
 
 ## 🌐 Socials:
